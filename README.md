@@ -149,6 +149,8 @@ footer {
 
 ## OUTPUT
 
+![Screenshot 2025-03-17 152556](https://github.com/user-attachments/assets/fe2533bf-ec87-4542-a87f-0c91da60c234)
+![Screenshot 2025-03-17 152621](https://github.com/user-attachments/assets/b1c4a204-0f6a-4e3b-9741-76ebdc32aad6)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
