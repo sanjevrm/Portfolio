@@ -105,6 +105,48 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 ```
+## CSS
+```
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background: #333;
+    color: white;
+}
+.hemanth-img{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.name{
+    font-family: roboto;
+    font-size: 26px;
+    font-weight: 600;
+}
+```
+
 ## OUTPUT
 
 
